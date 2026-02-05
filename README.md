@@ -1,11 +1,11 @@
-Analysis Pizza Sales PowerBI
+# 🍕 Pizza Sales Analysis – Power BI
 
 # Project Overview
-This project is a Power BI dashboard created to analyze pizza sales data.
-The goal is to practice data analysis, data modeling, and visualization skills.
+This project is a Power BI dashboard built to analyze pizza sales data.
+It focuses on practicing data analysis, data modeling, and visualization skills.
 
-# Key Insights
-- Total Sales performance overview
+## Key Insights
+- Overall sales performance and total revenue
 - Total number of orders
 - Sales distribution by pizza category
 - Sales trends over time (Year, Month, Day)
@@ -16,8 +16,8 @@ The goal is to practice data analysis, data modeling, and visualization skills.
 - Data Modeling
 - Data Visualization
 
-# Dashboard Preview
-> Screenshot of the dashboard is shown below
+## Dashboard Preview
+Below is a preview of the Power BI dashboard created in this project:
 
 ![Dashboard Preview](Dashboard.png)
 
