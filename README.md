@@ -19,7 +19,7 @@ The goal is to practice data analysis, data modeling, and visualization skills.
 # Dashboard Preview
 > Screenshot of the dashboard is shown below
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 # Files Included
 - `Sales Data Analysis.pbix` → Power BI dashboard file
